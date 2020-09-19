@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Audiowide", cursive;
+    color: red;
+}
+
+#container {
+    text-align: center;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+    margin: 5px 5px 5px 5px;
+    background-color: black;
+    border-color: grey;
+    box-shadow: 4px 4px 5px black;
+}
+
+#result {
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 64px;
+}
+
+#score {
+    margin-top: 5rem;
+    font-size: 42px;
+}
+
+#winner {
+    font-size: 42px;
+    text-align: center;
+}
